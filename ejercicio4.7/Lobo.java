@@ -4,10 +4,6 @@
  */
 package sonidoanimales;
 
-/**
- *
- * @author Sebastián
- */
 public class Lobo extends Canido {
     
 public String getSonido() {
