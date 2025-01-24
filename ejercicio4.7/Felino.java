@@ -4,10 +4,6 @@
  */
 package sonidoanimales;
 
-/**
- *
- * @author Sebastián
- */
 public abstract class Felino extends Animal {
     
     
