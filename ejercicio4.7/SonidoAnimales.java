@@ -4,10 +4,6 @@
  */
 package sonidoanimales;
 
-/**
- *
- * @author Sebastián
- */
 public class SonidoAnimales {
 
     public static void main(String[] args) {
