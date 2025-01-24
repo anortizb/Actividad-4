@@ -4,10 +4,6 @@
  */
 package sonidoanimales;
 
-/**
- *
- * @author Sebastián
- */
 abstract class Canido extends Animal {
     
 }
