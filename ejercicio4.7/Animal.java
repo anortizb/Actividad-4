@@ -4,10 +4,7 @@
  */
 package sonidoanimales;
 
-/**
- *
- * @author Sebastián
- */
+
 public abstract class Animal {
     
    protected String sonido;
